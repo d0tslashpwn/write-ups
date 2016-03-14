@@ -6,7 +6,8 @@
 
 ## Challenges
 * Misc
-    * 50 \| _Recon Hack@UCF_
+    * &nbsp;50 \| _Recon Hack@UCF_
+    * 300 \| _worth_
 
 ## Write-ups
 
