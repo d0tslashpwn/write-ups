@@ -1,8 +1,7 @@
 # Sunshine CTF 2016
 
-<p align="center"><img width="50%" src="https://raw.githubusercontent.com/d0tslashpwn/write-ups/master/Sunshine-CTF-2016/assets/ctf_logo.png"/></p>
+<p align="center"><img width="45%" src="https://raw.githubusercontent.com/d0tslashpwn/write-ups/master/Sunshine-CTF-2016/assets/ctf_logo.png"/></p>
 
-## CTF
 * __Date__: 2016/03/12 16:00 UTC - 2016/03/13 20:30 UTC
 * __Links__
     * [Website](http://ctf.bsidesorlando.org/)
