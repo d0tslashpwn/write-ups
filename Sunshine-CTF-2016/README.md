@@ -38,6 +38,6 @@
     * [Butterfly Effect]()
     * [That's No Moon]()
 * __Misc__
-    * [Find Floridaman]()
+    * [Find Floridaman](/Sunshine-CTF-2016/write-ups/find_floridaman.md)
 
 ### External
