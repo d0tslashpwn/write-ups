@@ -1,0 +1,281 @@
+1	eipiplus1equals0	1905
+2	M57	1755
+3	nattypwns	1705
+4	pm-hibernate	1555
+5	K17	1355
+6	0d0a	1305
+7	Bah Humbug	1255
+8	KrackUrM0M	1155
+9	Shady.Solutions	1155
+10	QQRXQ	1055
+11	⚡ Cyber Ops ⚡	1055
+12	0ops	1055
+13	scryptos	1005
+14	DeliciousHorse	905
+15	HDUISA	905
+16	RNNF	905
+17	IASL	905
+18	w0pr	905
+19	CTF-team	855
+20	atx2600	805
+21	du1iqvw	805
+22	WCSC	805
+23	KITCTF	805
+24	0xBU	705
+25	BreakPoint	705
+26	amn3s1a	655
+27	Snatch The Root	655
+28	komarov	655
+29	dcua	655
+30	Runlevel S	655
+31	q86	655
+32	ZeroDegree	655
+33	DjigIT	655
+34	jinmo123 is noob	605
+35	b1817294	605
+36	byteshredders	605
+37	The Chinese Army	600
+38	Pwnelaide	555
+39	yakinikyuu	555
+40	err0r-451	555
+41	0x8F	505
+42	nullify	505
+43	OpenToAll	455
+44	DFCI	455
+45	Bartack	455
+46	Sonic_Rainboom	450
+47	MSTUCA	450
+48	kopipacket	405
+49	th3jackers	400
+50	No Internet Access	355
+51	_rtfm_	355
+52	" or 1==1-- -	355
+53	d0tslashpwn	355
+54	0x90r00t	355
+55	HOADTU	355
+56	HackXore	355
+57	Und3rf10w	355
+58	BITSkrieg	355
+59	sec.se	355
+60	whitehatters-uk	305
+61	xil.se	305
+62	Just Hit the Core	305
+63	khack40	305
+64	QuokkaLight	305
+65	v0rt3x	305
+66	Insanity	305
+67	crayontheft	305
+68	b0tch_sec	305
+69	nullspacelabs	305
+70	unknowns	305
+71	Espacio	305
+72	vanhelsing	305
+73	ISITDTU	305
+74	thuongmun	305
+75	vovanbi94	305
+76	ISITDTU2	305
+77	Goats N' The Kush	305
+78	OPT	305
+79	DefeatedOne	305
+80	bobby	305
+81	mars	305
+82	New Generations	305
+83	Brutewoorse	305
+84	kurachan	305
+85	TESTTEAMPLEASEIGNORE	305
+86	deadmoo	305
+87	GoBack	305
+88	DMU Hackers	300
+89	wil0la	300
+90	testtesttest	300
+91	lol	255
+92	overflow.army	255
+93	ByteBandits	255
+94	PickledMasters	255
+95	Cyber-SNHU-pers	255
+96	PlayFair2K16	255
+97	The Deaf-Mutes	255
+98	Raccoons	255
+99	dystopian narwhals	255
+100	trashman	255
+101	0x101	250
+102	Fast Affine Projection	205
+103	koaidien	205
+104	ACES_jk	205
+105	IngloriousMonkeys	205
+106	ctffuntik	205
+107	naifriot	205
+108	Sherlock In Our Holmes	205
+109	virus69	205
+110	polysemous	205
+111	Mr.305	205
+112	jfhs	205
+113	Open Sourcerers	205
+114	Victorious Secret	205
+115	node	205
+116	:)	205
+117	Glidermed	205
+118	HungryCaterpillar	205
+119	arkham-asylum	205
+120	KXTI_3	205
+121	KXTI_2	205
+122	Ucorn1	205
+123	okudo3	205
+124	urandom	205
+125	hashtagshells	205
+126	Natalia	200
+127	BUCSS	200
+128	SecPrivMusketeers	200
+129	11-Digit Prime Number	200
+130	splarcit	200
+131	Random	200
+132	iSome	200
+133	crtl	200
+134	can	155
+135	Dragon Vector	155
+136	eBony&iVory	155
+137	atl3as71ampr377y	155
+138	zonda	155
+139	keywee__	155
+140	BatmansKitchen	155
+141	rm /bin/rm	155
+142	xeksec	155
+143	gandalffanclub	155
+144	lolcrypt	155
+145	g0tiu5a	150
+146	CCQK	150
+147	CaptainMoon	150
+148	1up	150
+149	coocoo	150
+150	nopster2016	150
+151	Super Users	150
+152	X	150
+153	pupurob	150
+154	Epic Leet Team	150
+155	KernelPanic	150
+156	vimvaders	150
+157	hexfact0r	150
+158	noraneco	150
+159	outinikaeritai	150
+160	irGeeks	150
+161	RTFM	150
+162	porpeeranut	150
+163	Just missed the core	150
+164	L0NE_1	150
+165	marcof	105
+166	Hitch	105
+167	getbaddrinfo	105
+168	pancakes	105
+169	low privs high hopes	105
+170	phat	105
+171	N00b^-_-^KatZ	105
+172	los_pecos	105
+173	NotHarryPotter	105
+174	GoldsNow	100
+175	berTrAM	100
+176	StratumAuhuur	100
+177	G-Dragon Rider	100
+178	buscoequipo	100
+179	TKOX	100
+180	taurus	100
+181	gabber	100
+182	4815162342	100
+183	NeOLux-C1Ph3r	100
+184	joker	100
+185	EC	100
+186	Dome	100
+187	ForPractice	100
+188	Execut3	100
+189	006	100
+190	gabbar	100
+191	cheetah	100
+192	Internetwache	100
+193	CorpOfHack	100
+194	Honeypot	100
+195	Occupe	100
+196	ALLES!	100
+197	EmoClowns	100
+198	NoobzR'us	100
+199	R00tmont	100
+200	participe_ctf	100
+201	Avidya	100
+202	hy00un	100
+203	0x3c3e	100
+204	pr0_p0wn	100
+205	nakotaco	100
+206	114514	100
+207	Kernel_Sanders	100
+208	Shi0shishi0	100
+209	omega	100
+210	kba	100
+211	seabreeze	100
+212	KXTI	100
+213	Magic-Hat	100
+214	ineXHAust	100
+215	zwhubuntu	100
+216	p03p0wn	100
+217	MV9rwGOf08	100
+218	Efiens	100
+219	RooterX	100
+220	TenDollar	100
+221	555plus	100
+222	SecurityFirst	100
+223	b01lers	100
+224	dokko	100
+225	rEvEr	100
+226	alice_is_dead	100
+227	tank1st99	100
+228	ayase	100
+229	espresso	100
+230	T1dyC2t	100
+231	eash	100
+232	dwigtsr00t	55
+233	enZyme	55
+234	pepe	55
+235	minhty123	55
+236	Pocahontas	50
+237	BabyPhD	50
+238	Ghostship	50
+239	investigators	50
+240	TheKillingTime	50
+241	Squirrel_Attack	50
+242	hAIXer	50
+243	spoon	50
+244	K_Seventeen	50
+245	nusgreyhats	50
+246	1	50
+247	rubes	50
+248	ForeverAlone	50
+249	Spam0days	50
+250	deezknightz	50
+251	Brine	50
+252	NL_StartUp	50
+253	player1	50
+254	xSTF	50
+255	embr4ce	50
+256	afkeSix	50
+257	USF G8rs	50
+258	ShadowCats	50
+259	ROPing Ain't Easy	50
+260	Udsu-tim	50
+261	M13mp18	50
+262	f60	50
+263	PeterPen	50
+264	cRUcible	50
+265	brucel33t	50
+266	xingliang	50
+267	meepwn	50
+268	C0t0mate	50
+269	jimmyjamandthehoagies	50
+270	AgeOfNull	50
+271	NIS	50
+272	Men_In_The_Middle	50
+273	BlackDuck	50
+274	Z3TL	50
+275	BlueManGroup	50
+276	Team Jacob	50
+277	XteamX	50
+278	randomsctf	50
+279	badtaco	50
+280	Perun	50
+281	forceful_entry	50
