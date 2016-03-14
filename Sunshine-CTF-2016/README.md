@@ -6,7 +6,7 @@
 * __Links__
     * [Website](http://ctf.bsidesorlando.org/)
     * [CTFtime event](https://ctftime.org/event/297)
-* __Rank__: 53/281 ([Scoreboard](/assets/ctf_scoreboard.txt))
+* __Rank__: 53/281 ([Scoreboard](/Sunshine-CTF-2016/assets/ctf_scoreboard.txt))
 * __Files for challenges__: [d0tslashpwn/ctf-files/Sunshine-CTF-2016](https://github.com/d0tslashpwn/ctf-files/tree/master/Sunshine-CTF-2016)
 
 ## Challenges
