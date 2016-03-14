@@ -7,7 +7,7 @@
 * __Links__
     * [Website](http://ctf.bsidesorlando.org/)
     * [CTFtime event](https://ctftime.org/event/297)
-* __Files for challenges__: [d0tslashpwn/ctf-files/Sunshine-CTF-2016](https://github.com/d0tslashpwn/ctf-files/tree/master/Sunshine-CTF-2016)
+* __Files for challenges__: [d0tslashpwn/ctf-files/Sunshine-CTF-2016](https://raw.githubusercontent.com/d0tslashpwn/write-ups/master/Sunshine-CTF-2016/assets/ctf_logo.png)
 
 ## Challenges
 * __Exploitation__
