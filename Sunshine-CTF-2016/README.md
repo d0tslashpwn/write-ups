@@ -1,13 +1,13 @@
 # Sunshine CTF 2016
 
-<p align="center"><img width="50%" src="https://github.com/d0tslashpwn/write-ups/sunshine-ctf-2016/assets/ctf_logo.png"/></p>
+<p align="center"><img width="50%" src="https://raw.githubusercontent.com/d0tslashpwn/write-ups/master/Sunshine-CTF-2016/assets/ctf_logo.png"/></p>
 
 ## CTF
 * __Date__: 2016/03/12 16:00 UTC - 2016/03/13 20:30 UTC
 * __Links__
     * [Website](http://ctf.bsidesorlando.org/)
     * [CTFtime event](https://ctftime.org/event/297)
-* __Files for challenges__: [d0tslashpwn/ctf-files/Sunshine-CTF-2016](https://raw.githubusercontent.com/d0tslashpwn/write-ups/master/Sunshine-CTF-2016/assets/ctf_logo.png)
+* __Files for challenges__: [d0tslashpwn/ctf-files/Sunshine-CTF-2016](https://github.com/d0tslashpwn/ctf-files/tree/master/Sunshine-CTF-2016)
 
 ## Challenges
 * __Exploitation__
