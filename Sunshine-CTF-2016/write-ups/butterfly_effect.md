@@ -13,7 +13,7 @@ After downloading a picture of a beautiful butterfly, we need to find the flag i
 
 We modify a bit the color as shown below.
 
-<p align="center"><img width="45%" src="https://raw.githubusercontent.com/d0tslashpwn/write-ups/master/Sunshine-CTF-2016/assets/steganabara_matrix.jpg"/></p>
+<p align="center"><img width="15%" src="https://raw.githubusercontent.com/d0tslashpwn/write-ups/master/Sunshine-CTF-2016/assets/steganabara_matrix.jpg"/></p>
 
 We finally find the flag; `sun{READY_THE_4CID_M4GNET!}`.
 
