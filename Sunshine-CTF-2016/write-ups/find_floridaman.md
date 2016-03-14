@@ -9,4 +9,4 @@ To find the flag of this challenge, we need to look at Florida based newspaper a
 
 After some research, we find that the newspaper we need to look at is [The Palm Beach Post / MyPalmBeachPost](http://www.mypalmbeachpost.com/) and the article we needed to read was [_Wendy’s alligator-thrower is only fulfilling his Flori-duh destiny_](http://www.mypalmbeachpost.com/news/news/crime-law/wendys-alligator-thrower-is-only-fulfilling-his-fl/nqNfr/). The flag is in the comments.
 
-<p align="center"><img width="45%" src="https://raw.githubusercontent.com/d0tslashpwn/write-ups/master/Sunshine-CTF-2016/assets/find_floridaman.jpg"/></p>
+<p align="center"><img width="55%" src="https://raw.githubusercontent.com/d0tslashpwn/write-ups/master/Sunshine-CTF-2016/assets/find_floridaman.jpg"/></p>
