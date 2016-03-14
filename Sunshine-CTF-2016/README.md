@@ -34,9 +34,13 @@
 ## Write-ups
 
 ### Team
+* __Exploitation__
+    * [alligatorsim95](/Sunshine-CTF-2016/write-ups/alligatorsim95.md)
+    * [Dance](/Sunshine-CTF-2016/write-ups/dance.md)
+    * [Randy](/Sunshine-CTF-2016/write-ups/randy.md)
 * __Forensics__
-    * [Butterfly Effect]()
-    * [That's No Moon]()
+    * [Butterfly Effect](/Sunshine-CTF-2016/write-ups/butterfly_effect.md)
+    * [That's No Moon](/Sunshine-CTF-2016/write-ups/thats_no_moon.md)
 * __Misc__
     * [Find Floridaman](/Sunshine-CTF-2016/write-ups/find_floridaman.md)
 
