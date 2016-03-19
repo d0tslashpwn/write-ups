@@ -32,8 +32,6 @@
     * Zigerians pt II - _100_
 
 ## Write-ups
-
-### Team
 * __Exploitation__
     * [alligatorsim95](/Sunshine-CTF-2016/write-ups/alligatorsim95.md)
     * [Dance](/Sunshine-CTF-2016/write-ups/dance.md)
@@ -44,4 +42,4 @@
 * __Misc__
     * [Find Floridaman](/Sunshine-CTF-2016/write-ups/find_floridaman.md)
 
-### External
+Other write-ups for this CTF are available [here](https://ctftime.org/event/297/tasks/).
