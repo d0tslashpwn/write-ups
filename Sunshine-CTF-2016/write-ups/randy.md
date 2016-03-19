@@ -5,8 +5,11 @@ tags:    [Write-up, Sunshine CTF 2016]
 summary: "Write-up about Sunshine CTF 2016 - Randy"
 ---
 
+<<<<<<< HEAD
 In this challenge, we have a binary file and we need to connect over the network using Netcat. After a program analysis on the binary file, we can see that we need to create a code that will retrieve the random value which is produced. We will finally receive the flag.
 
+=======
+>>>>>>> cc4fa00a9b202369df3fe4638bac04814b41e9db
 ```
 import telnetlib
 import struct
@@ -40,16 +43,24 @@ print " - - - - - "
 
 s.write(x(int(magic, 16)))
 print s.read_all()
+<<<<<<< HEAD
 ```
 
 We will have the following message:
 
 ```
+=======
+
+>>>>>>> cc4fa00a9b202369df3fe4638bac04814b41e9db
 ''' OUTPUT:
 debuginfo = 0x6ba9580a
  - - - - - 
 magic = 0x2a6817c9
  - - - - - 
+<<<<<<< HEAD
+=======
+
+>>>>>>> cc4fa00a9b202369df3fe4638bac04814b41e9db
 We've dealt you your hand face down, please enter it:
 You guessed that hand perfectly! Here's your prize: sun{c4rds_in_th3_tr4p}
 '''
@@ -71,11 +82,14 @@ You guessed that hand perfectly! Here's your prize: sun{c4rds_in_th3_tr4p}
    0x804865f <main+207>:    and    ecx,0xff
    0x8048665 <main+213>:    add    ecx,eax
 '''
+<<<<<<< HEAD
 ```
 
 We can try to _decrypt_ it by using this snippet of code:
 
 ```
+=======
+>>>>>>> cc4fa00a9b202369df3fe4638bac04814b41e9db
 def saradd(e):
     a=hex((((e >> 0x18) & 0xff) + 0x41 ) & 0xff)
     b=hex((((e >> 0x10) & 0xff) + 0x41 ) & 0xff)
@@ -83,5 +97,8 @@ def saradd(e):
     d=hex((e & 0xff) + 0x41)
     return a + b[2:] + c[2:] + d[2:]
 ```
+<<<<<<< HEAD
 
 The flag to solve this challenge is `sun{c4rds_in_th3_tr4p}`.
+=======
+>>>>>>> cc4fa00a9b202369df3fe4638bac04814b41e9db
