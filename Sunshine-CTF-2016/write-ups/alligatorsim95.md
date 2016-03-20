@@ -27,7 +27,7 @@ In this challenge, we need to connect to a server through Netcat. Let is do it w
 -> you got 1337 eggz in ur nest, how many you gonna lay alligator?? ~~ producing eggz ~~
 ```
 
-After digging we can see that the program can accept any values, especially negative values. This is surely a way to perform [integer overflows](https://en.wikipedia.org/wiki/Integer_overflow). By a simple command in Python we can find the flag: `python -c "print -1337; print -0xffffffff; print -1" | nc 4.31.182.242 9000`. We will have the following message:
+After digging we can see that the program can accept any values, especially negative values. This is surely a way to perform [integer underflows](https://en.wikipedia.org/wiki/Integer_overflow). By a simple command in Python we can find the flag: `python -c "print -1337; print -0xffffffff; print -1" | nc 4.31.182.242 9000`. We will have the following message:
 
 ```
               .-._   _ _ _ _ _ _ _ _
