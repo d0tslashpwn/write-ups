@@ -5,7 +5,7 @@ tags:    [Write-up, Sunshine CTF 2016]
 summary: "Write-up about Sunshine CTF 2016 - That's No Moon"
 ---
 
-For this Forensics challenge, we need to download a picture of a moon. The file is available [here](https://raw.githubusercontent.com/d0tslashpwn/ctf-files/master/Sunshine-CTF-2016/forensics/moon.png). After trying to play with colors with [Steganabara](https://www.wechall.net/downloads/by/user_name/ASC/page-1) or [Stegsolve](https://www.wechall.net/forum/show/thread/527/Stegsolve_1.3/page-1) to find a hidden text, we change of strategy. We use the `strings` command. By the end of the output, we can see a `flag.txt` is hidden inside the file.
+For this Forensics challenge, we need to download a picture of a moon. The file is available [here](https://raw.githubusercontent.com/d0tslashpwn/ctf-files/master/Sunshine-CTF-2016/forensics/thats-no-moon/moon.png). After trying to play with colors with [Steganabara](https://www.wechall.net/downloads/by/user_name/ASC/page-1) or [Stegsolve](https://www.wechall.net/forum/show/thread/527/Stegsolve_1.3/page-1) to find a hidden text, we change of strategy. We use the `strings` command. By the end of the output, we can see a `flag.txt` is hidden inside the file.
 
 ```
 % strings moon.png
