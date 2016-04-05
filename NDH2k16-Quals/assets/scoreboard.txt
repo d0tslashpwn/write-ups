@@ -1,0 +1,929 @@
+# 	Name 	Score 	Latest validation
+1 	Shellphish 	3150 points 	4/2/16, 9:21 PM
+2 	Dragon Sector 	2950 points 	4/2/16, 8:15 PM
+3 	RDot.org 	2950 points 	4/2/16, 8:29 PM
+4 	Tasteless 	2900 points 	4/2/16, 8:45 PM
+5 	0ops 	2800 points 	4/2/16, 9:35 PM
+6 	scryptos 	2700 points 	4/2/16, 8:01 PM
+7 	StratumAuhuur 	2700 points 	4/2/16, 8:37 PM
+8 	dcua 	2650 points 	4/2/16, 4:05 PM
+9 	Samurai 	2500 points 	4/2/16, 6:40 PM
+10 	Hexpresso 	2500 points 	4/2/16, 7:37 PM
+11 	khack40 	2500 points 	4/2/16, 8:47 PM
+12 	Fourchette Bombe 	2500 points 	4/2/16, 9:48 PM
+13 	cblc 	2350 points 	4/2/16, 4:30 PM
+14 	HacknamStyle 	2350 points 	4/2/16, 6:22 PM
+15 	int3pids 	2350 points 	4/2/16, 7:35 PM
+16 	c00kies@venice 	2350 points 	4/2/16, 8:01 PM
+17 	ASIS 	2350 points 	4/2/16, 8:28 PM
+18 	Digital Beegiz 	2300 points 	4/2/16, 9:29 PM
+19 	TokyoWesterns 	2200 points 	4/2/16, 4:37 PM
+20 	fuffateam 	2200 points 	4/2/16, 8:47 PM
+21 	Bushwhackers 	2100 points 	4/2/16, 5:34 PM
+22 	Antichat 	2100 points 	4/2/16, 9:00 PM
+23 	ISITDTU 	2050 points 	4/2/16, 6:21 PM
+24 	SZT 	2050 points 	4/2/16, 9:06 PM
+25 	MistouflOWN 	2050 points 	4/2/16, 9:46 PM
+26 	Snatch The Root 	2050 points 	4/2/16, 9:57 PM
+27 	sec0d 	1900 points 	4/2/16, 9:47 PM
+28 	0daysober 	1850 points 	4/2/16, 7:50 PM
+29 	p4 	1800 points 	4/2/16, 4:50 PM
+30 	teambob 	1800 points 	4/2/16, 5:28 PM
+31 	SpectriX 	1650 points 	4/2/16, 2:27 PM
+32 	0xbadf00d 	1650 points 	4/2/16, 3:44 PM
+33 	CyKor 	1650 points 	4/2/16, 4:17 PM
+34 	DlcsHrs 	1650 points 	4/2/16, 6:10 PM
+35 	Zenk-Security 	1650 points 	4/2/16, 9:42 PM
+36 	Spiderz 	1600 points 	4/2/16, 9:53 PM
+37 	PPP 	1550 points 	4/2/16, 11:25 AM
+38 	bitbitbit 	1550 points 	4/2/16, 9:01 PM
+39 	towerofhanoi 	1400 points 	4/2/16, 8:31 PM
+40 	217 	1400 points 	4/2/16, 9:00 PM
+41 	HackXore 	1400 points 	4/2/16, 9:00 PM
+42 	7HxzZ 	1350 points 	4/2/16, 7:14 PM
+43 	squareroots 	1350 points 	4/2/16, 8:26 PM
+44 	du1iqvw 	1350 points 	4/2/16, 8:30 PM
+45 	.elite 	1300 points 	4/2/16, 1:36 PM
+46 	KzUs 	1300 points 	4/2/16, 5:45 PM
+47 	pony7 	1300 points 	4/2/16, 6:15 PM
+48 	dodododo 	1250 points 	4/2/16, 5:12 PM
+49 	CyberKittenAttackSquad 	1250 points 	4/2/16, 5:24 PM
+50 	H4x0rPsch0rr 	1250 points 	4/2/16, 6:42 PM
+51 	Phish'n'Chips 	1250 points 	4/2/16, 8:01 PM
+52 	MonkeyFlagger 	1250 points 	4/2/16, 9:19 PM
+53 	dipso 	1250 points 	4/2/16, 9:55 PM
+54 	TKOX 	1250 points 	4/2/16, 9:57 PM
+55 	w0pr 	1200 points 	4/2/16, 12:55 PM
+56 	gentlemen 	1150 points 	4/2/16, 10:22 AM
+57 	!SpamAndHex 	1150 points 	4/2/16, 3:00 PM
+58 	BabyPhD 	1150 points 	4/2/16, 3:10 PM
+59 	LSE 	1150 points 	4/2/16, 3:37 PM
+60 	irGeeks 	1150 points 	4/2/16, 4:23 PM
+61 	oneup 	1150 points 	4/2/16, 8:15 PM
+62 	OpenToAll 	1150 points 	4/2/16, 9:49 PM
+63 	CaptureTheSwag 	1100 points 	4/2/16, 8:26 AM
+64 	CLGT 	1050 points 	4/2/16, 1:43 PM
+65 	KITCTF 	1050 points 	4/2/16, 2:03 PM
+66 	Raccoons 	1050 points 	4/2/16, 4:45 PM
+67 	MV9rwGOf08 	1050 points 	4/2/16, 7:33 PM
+68 	amn3s1a 	1050 points 	4/2/16, 8:31 PM
+69 	LosFuzzys 	1050 points 	4/2/16, 9:32 PM
+70 	[Censored] 	950 points 	4/2/16, 4:16 AM
+71 	9447 	950 points 	4/2/16, 1:52 PM
+72 	REU 	950 points 	4/2/16, 4:25 PM
+73 	DCIETS 	950 points 	4/2/16, 5:45 PM
+74 	lumen 	950 points 	4/2/16, 6:20 PM
+75 	/dev/randoge 	950 points 	4/2/16, 8:03 PM
+76 	MSU-CTF 	950 points 	4/2/16, 8:03 PM
+77 	takaki 	950 points 	4/2/16, 8:44 PM
+78 	fullmetalfouad 	950 points 	4/2/16, 9:30 PM
+79 	****** 	900 points 	4/2/16, 11:16 AM
+80 	noraneco 	900 points 	4/2/16, 7:08 PM
+81 	QuokkaLight 	900 points 	4/2/16, 7:30 PM
+82 	TeamTFH 	900 points 	4/2/16, 9:34 PM
+83 	Insanity 	850 points 	4/2/16, 7:13 PM
+84 	0xc0ffee 	850 points 	4/2/16, 7:47 PM
+85 	WiNA is no acronym 	850 points 	4/2/16, 8:08 PM
+86 	d0tslashpwn 	850 points 	4/2/16, 8:10 PM
+87 	b01lers 	850 points 	4/2/16, 8:48 PM
+88 	duks 	800 points 	4/2/16, 10:21 AM
+89 	WeAreSecSy 	800 points 	4/2/16, 9:13 PM
+90 	0x90r00t 	800 points 	4/2/16, 9:49 PM
+91 	SIGINT 	750 points 	4/2/16, 10:46 AM
+92 	Eaters 	750 points 	4/2/16, 12:02 PM
+93 	Wiremask 	750 points 	4/2/16, 1:36 PM
+94 	CSI 	750 points 	4/2/16, 3:01 PM
+95 	Bono_iPad 	750 points 	4/2/16, 3:40 PM
+96 	Shady Hats 	750 points 	4/2/16, 3:53 PM
+97 	Le££eS 	750 points 	4/2/16, 4:44 PM
+98 	omakase 	750 points 	4/2/16, 8:15 PM
+99 	dotHack// 	750 points 	4/2/16, 8:22 PM
+100 	SUSlo.PAS 	700 points 	4/2/16, 12:06 PM
+101 	KrackUrM0M 	700 points 	4/2/16, 1:54 PM
+102 	PKTeam 	700 points 	4/2/16, 2:18 PM
+103 	brucel33t 	700 points 	4/2/16, 4:03 PM
+104 	DjigIT 	700 points 	4/2/16, 9:21 PM
+105 	zx 	650 points 	4/2/16, 1:46 AM
+106 	Mammon Machine 	650 points 	4/2/16, 3:37 AM
+107 	HDUISA 	650 points 	4/2/16, 9:16 AM
+108 	hackgyver 	650 points 	4/2/16, 10:08 AM
+109 	hlcracksngeeks 	650 points 	4/2/16, 11:17 AM
+110 	FAUST 	650 points 	4/2/16, 11:41 AM
+111 	SiBears 	650 points 	4/2/16, 11:59 AM
+112 	xil.se 	650 points 	4/2/16, 12:28 PM
+113 	CTF-infinit 	650 points 	4/2/16, 1:34 PM
+114 	Team IB 	650 points 	4/2/16, 1:57 PM
+115 	Deepsea 	650 points 	4/2/16, 2:49 PM
+116 	Fast Affine Projection 	650 points 	4/2/16, 3:43 PM
+117 	SwissMadeSecurity 	650 points 	4/2/16, 4:36 PM
+118 	cyberkastike 	650 points 	4/2/16, 4:48 PM
+119 	Securimag 	650 points 	4/2/16, 5:18 PM
+120 	RooterX 	650 points 	4/2/16, 5:29 PM
+121 	curl | sudo bash 	650 points 	4/2/16, 6:47 PM
+122 	Slug Security 	650 points 	4/2/16, 7:12 PM
+123 	jeannedhack 	600 points 	4/2/16, 5:00 PM
+124 	r33ts 	600 points 	4/2/16, 5:20 PM
+125 	ALLES! 	600 points 	4/2/16, 9:17 PM
+126 	osu.sec 	550 points 	4/2/16, 2:32 AM
+127 	mage 	550 points 	4/2/16, 2:49 AM
+128 	Honeypot 	550 points 	4/2/16, 5:31 AM
+129 	d4rkc0de 	550 points 	4/2/16, 10:01 AM
+130 	err0r-451 	550 points 	4/2/16, 10:04 AM
+131 	girav 	550 points 	4/2/16, 11:17 AM
+132 	bi0s 	550 points 	4/2/16, 11:52 AM
+133 	Owe 	550 points 	4/2/16, 1:12 PM
+134 	NIS 	550 points 	4/2/16, 4:20 PM
+135 	CorpOfHack 	550 points 	4/2/16, 4:41 PM
+136 	ascii overflow 	550 points 	4/2/16, 6:26 PM
+137 	Come To Fight 	550 points 	4/2/16, 9:42 PM
+138 	JDIs 	500 points 	4/2/16, 12:44 AM
+139 	fsim2015 	500 points 	4/2/16, 7:22 AM
+140 	Invulnerable 	500 points 	4/2/16, 8:25 PM
+141 	maf-ia 	500 points 	4/2/16, 8:32 PM
+142 	Brine 	500 points 	4/2/16, 8:55 PM
+143 	PunKeel 	500 points 	4/2/16, 9:47 PM
+144 	smoke leet everyday 	450 points 	4/1/16, 10:48 PM
+145 	HackingForSoju 	450 points 	4/1/16, 11:04 PM
+146 	fd 	450 points 	4/1/16, 11:51 PM
+147 	Delogrand 	450 points 	4/2/16, 12:01 AM
+148 	Asuwiel 	450 points 	4/2/16, 1:11 AM
+149 	D3afMut3s 	450 points 	4/2/16, 1:25 AM
+150 	HackKing 	450 points 	4/2/16, 1:38 AM
+151 	ToxicBandits 	450 points 	4/2/16, 2:07 AM
+152 	mainro 	450 points 	4/2/16, 2:09 AM
+153 	BrieflyX 	450 points 	4/2/16, 2:09 AM
+154 	ia0 	450 points 	4/2/16, 2:16 AM
+155 	PeakChaos 	450 points 	4/2/16, 3:15 AM
+156 	xSTF 	450 points 	4/2/16, 4:24 AM
+157 	ByteBandits 	450 points 	4/2/16, 4:30 AM
+158 	covart 	450 points 	4/2/16, 4:45 AM
+159 	Contagion 	450 points 	4/2/16, 5:00 AM
+160 	m1z0r3 	450 points 	4/2/16, 5:16 AM
+161 	nada8 	450 points 	4/2/16, 5:21 AM
+162 	Efiens 	450 points 	4/2/16, 5:26 AM
+163 	sunset 	450 points 	4/2/16, 6:29 AM
+164 	blukat29 	450 points 	4/2/16, 6:54 AM
+165 	p0wontnx 	450 points 	4/2/16, 8:35 AM
+166 	pm-hibernate 	450 points 	4/2/16, 9:22 AM
+167 	babou22 	450 points 	4/2/16, 10:14 AM
+168 	OPT 	450 points 	4/2/16, 10:22 AM
+169 	ECHO 	450 points 	4/2/16, 10:44 AM
+170 	dqi 	450 points 	4/2/16, 11:11 AM
+171 	BITSkrieg 	450 points 	4/2/16, 11:19 AM
+172 	Magic-Hat 	450 points 	4/2/16, 11:42 AM
+173 	okudo3 	450 points 	4/2/16, 12:03 PM
+174 	zzoru 	450 points 	4/2/16, 12:09 PM
+175 	pie 	450 points 	4/2/16, 1:11 PM
+176 	skyer 	450 points 	4/2/16, 1:25 PM
+177 	BreakPoint 	450 points 	4/2/16, 2:01 PM
+178 	InfoSecIITR 	450 points 	4/2/16, 2:14 PM
+179 	marcS0H 	450 points 	4/2/16, 2:35 PM
+180 	BlackPanda 	450 points 	4/2/16, 2:45 PM
+181 	minhty123 	450 points 	4/2/16, 2:56 PM
+182 	b1n4ry4rms 	450 points 	4/2/16, 3:21 PM
+183 	sbs3 	450 points 	4/2/16, 3:39 PM
+184 	M57 	450 points 	4/2/16, 4:14 PM
+185 	Brutewoorse 	450 points 	4/2/16, 5:02 PM
+186 	Dystopian Narwhals 	450 points 	4/2/16, 6:01 PM
+187 	koibasta 	450 points 	4/2/16, 7:00 PM
+188 	c21h30o2 	450 points 	4/2/16, 7:27 PM
+189 	RPISEC 	450 points 	4/2/16, 7:36 PM
+190 	MojoMaster 	450 points 	4/2/16, 7:39 PM
+191 	lintile 	450 points 	4/2/16, 8:35 PM
+192 	b0tch_sec 	450 points 	4/2/16, 9:43 PM
+193 	c4f3c0ml31t3 	450 points 	4/2/16, 9:45 PM
+194 	n0pstar 	450 points 	4/2/16, 9:55 PM
+195 	InNameOfLulz 	450 points 	4/2/16, 9:57 PM
+196 	TheGoonies 	400 points 	4/2/16, 7:51 PM
+197 	SpartHackUs 	400 points 	4/2/16, 8:18 PM
+198 	P_TE 	400 points 	4/2/16, 9:49 PM
+199 	pavel 	350 points 	4/1/16, 11:44 PM
+200 	erio 	350 points 	4/2/16, 1:07 PM
+201 	DATATECH 	350 points 	4/2/16, 6:26 PM
+202 	vanhelsing 	350 points 	4/2/16, 6:46 PM
+203 	0x8F 	350 points 	4/2/16, 9:18 PM
+204 	CafardNahum 	300 points 	4/2/16, 4:41 PM
+205 	ecto 	300 points 	4/2/16, 7:21 PM
+206 	PeterPen 	300 points 	4/2/16, 8:03 PM
+207 	Teammi 	250 points 	4/2/16, 12:46 PM
+208 	Les T4rtines 	250 points 	4/2/16, 3:51 PM
+209 	cyrilbruder 	250 points 	4/2/16, 4:15 PM
+210 	BAKUP 	250 points 	4/2/16, 5:43 PM
+211 	nessie09 	250 points 	4/2/16, 6:25 PM
+212 	giraffee 	250 points 	4/2/16, 7:57 PM
+213 	init 	200 points 	4/2/16, 2:06 AM
+214 	soma 	200 points 	4/2/16, 3:27 AM
+215 	FATTYPUTTY 	200 points 	4/2/16, 3:44 PM
+216 	red dream 	200 points 	4/2/16, 5:57 PM
+217 	pwnplay 	200 points 	4/2/16, 6:38 PM
+218 	Team Red Ace 	200 points 	4/2/16, 6:44 PM
+219 	hacklib 	200 points 	4/2/16, 6:46 PM
+220 	UCCU 	200 points 	4/2/16, 7:05 PM
+221 	f0xtr0t 	200 points 	4/2/16, 9:53 PM
+222 	MrGrey 	150 points 	4/1/16, 11:15 PM
+223 	JHtC 	150 points 	4/1/16, 11:27 PM
+224 	d0hwn3d 	150 points 	4/2/16, 12:30 AM
+225 	goatzzz 	150 points 	4/2/16, 12:38 AM
+226 	SHK 	150 points 	4/2/16, 1:40 AM
+227 	krornus 	150 points 	4/2/16, 1:55 AM
+228 	SHARK 	150 points 	4/2/16, 3:06 AM
+229 	iD4rk 	150 points 	4/2/16, 3:18 AM
+230 	fortenforge 	150 points 	4/2/16, 3:35 AM
+231 	noobs 	150 points 	4/2/16, 5:03 AM
+232 	FR19 	150 points 	4/2/16, 6:37 AM
+233 	s111 	150 points 	4/2/16, 7:11 AM
+234 	rh0main 	150 points 	4/2/16, 8:27 AM
+235 	.ROTC 	150 points 	4/2/16, 9:43 AM
+236 	Master Ironbar 	150 points 	4/2/16, 10:48 AM
+237 	GlandOS 	150 points 	4/2/16, 10:59 AM
+238 	hackdumb 	150 points 	4/2/16, 11:04 AM
+239 	Meerkat 	150 points 	4/2/16, 12:07 PM
+240 	hexfact0r 	150 points 	4/2/16, 12:07 PM
+241 	koaidien 	150 points 	4/2/16, 12:23 PM
+242 	taurus 	150 points 	4/2/16, 12:41 PM
+243 	menitm 	150 points 	4/2/16, 12:54 PM
+244 	HackerHotel 	150 points 	4/2/16, 1:39 PM
+245 	gooligans 	150 points 	4/2/16, 1:47 PM
+246 	STT 	150 points 	4/2/16, 1:58 PM
+247 	rkkautsar 	150 points 	4/2/16, 2:18 PM
+248 	PHS Absol 	150 points 	4/2/16, 2:46 PM
+249 	ApertureWorkers 	150 points 	4/2/16, 2:55 PM
+250 	nullspacelabs 	150 points 	4/2/16, 2:56 PM
+251 	grisha 	150 points 	4/2/16, 2:58 PM
+252 	qqq 	150 points 	4/2/16, 3:13 PM
+253 	flyingmonkey 	150 points 	4/2/16, 3:15 PM
+254 	Yamagi.com 	150 points 	4/2/16, 3:23 PM
+255 	random 	150 points 	4/2/16, 4:31 PM
+256 	jeje-50 	150 points 	4/2/16, 4:38 PM
+257 	Red Velvet Muffin 	150 points 	4/2/16, 5:02 PM
+258 	Spam0day 	150 points 	4/2/16, 5:25 PM
+259 	hack.carleton 	150 points 	4/2/16, 5:30 PM
+260 	Espacio 	150 points 	4/2/16, 5:33 PM
+261 	9soc 	150 points 	4/2/16, 6:42 PM
+262 	0d0a 	150 points 	4/2/16, 6:44 PM
+263 	pulchritudinouscell 	150 points 	4/2/16, 7:58 PM
+264 	uiuctf 	150 points 	4/2/16, 8:00 PM
+265 	4861636B6572 	150 points 	4/2/16, 8:08 PM
+266 	Rick Astley Fan Club 	150 points 	4/2/16, 8:09 PM
+267 	BatmansKitchen 	150 points 	4/2/16, 8:12 PM
+268 	PSBehrend 	150 points 	4/2/16, 8:29 PM
+269 	feliam 	150 points 	4/2/16, 9:50 PM
+270 	Vegan Zombies 	100 points 	4/2/16, 6:51 AM
+271 	CheckMeOut 	100 points 	4/2/16, 8:47 AM
+272 	jody-frankowski 	100 points 	4/2/16, 9:48 AM
+273 	TigerTeam 	100 points 	4/2/16, 1:30 PM
+274 	rhinoceros 	100 points 	4/2/16, 1:33 PM
+275 	yakinikyuu 	100 points 	4/2/16, 1:39 PM
+276 	0xE44BEDDED 	100 points 	4/2/16, 5:09 PM
+277 	isitdtu2 	100 points 	4/2/16, 6:14 PM
+278 	karezma 	100 points 	4/2/16, 8:29 PM
+279 	D3siprox 	50 points 	4/1/16, 10:00 PM
+280 	4815162342 	50 points 	4/1/16, 10:00 PM
+281 	IsiLabs 	50 points 	4/1/16, 10:02 PM
+282 	piratesecurity 	50 points 	4/1/16, 10:03 PM
+283 	esgi4asi1 	50 points 	4/1/16, 10:03 PM
+284 	Jeramy 	50 points 	4/1/16, 10:03 PM
+285 	Zboob 	50 points 	4/1/16, 10:05 PM
+286 	Anthony 	50 points 	4/1/16, 10:06 PM
+287 	udalov 	50 points 	4/1/16, 10:07 PM
+288 	./rideaux.pl 	50 points 	4/1/16, 10:07 PM
+289 	GorillaHack 	50 points 	4/1/16, 10:08 PM
+290 	nuc13us 	50 points 	4/1/16, 10:09 PM
+291 	Ascope 	50 points 	4/1/16, 10:11 PM
+292 	Geostrike 	50 points 	4/1/16, 10:12 PM
+293 	NuttinButLuv 	50 points 	4/1/16, 10:12 PM
+294 	isileaks 	50 points 	4/1/16, 10:12 PM
+295 	totolapraline 	50 points 	4/1/16, 10:13 PM
+296 	UcLanCYl33t 	50 points 	4/1/16, 10:16 PM
+297 	akhalash 	50 points 	4/1/16, 10:16 PM
+298 	Blue_Scr33n 	50 points 	4/1/16, 10:16 PM
+299 	Evil Computing 	50 points 	4/1/16, 10:18 PM
+300 	karroum 	50 points 	4/1/16, 10:19 PM
+301 	awile 	50 points 	4/1/16, 10:20 PM
+302 	Nayki 	50 points 	4/1/16, 10:21 PM
+303 	Orange Mécanique 	50 points 	4/1/16, 10:22 PM
+304 	Zylopfa 	50 points 	4/1/16, 10:22 PM
+305 	Cylarcy 	50 points 	4/1/16, 10:22 PM
+306 	Lil'BobbyTables 	50 points 	4/1/16, 10:26 PM
+307 	knightsec 	50 points 	4/1/16, 10:30 PM
+308 	Yop_solo 	50 points 	4/1/16, 10:31 PM
+309 	Ramolino 	50 points 	4/1/16, 10:31 PM
+310 	vulnhub-ctf 	50 points 	4/1/16, 10:31 PM
+311 	qwebify 	50 points 	4/1/16, 10:33 PM
+312 	lulZer 	50 points 	4/1/16, 10:34 PM
+313 	luckyPenguins 	50 points 	4/1/16, 10:36 PM
+314 	Yacine101 	50 points 	4/1/16, 10:37 PM
+315 	z13db 	50 points 	4/1/16, 10:44 PM
+316 	tank1st99 	50 points 	4/1/16, 10:46 PM
+317 	d0we11 	50 points 	4/1/16, 10:46 PM
+318 	The Cat is #1!! 	50 points 	4/1/16, 10:53 PM
+319 	Angel-Amor 	50 points 	4/1/16, 10:56 PM
+320 	KR3F1DP3@ 	50 points 	4/1/16, 10:59 PM
+321 	c0t0r3pZ 	50 points 	4/1/16, 10:59 PM
+322 	0x8BadF00d 	50 points 	4/1/16, 10:59 PM
+323 	jacques 	50 points 	4/1/16, 11:01 PM
+324 	ReallyNonamesFor 	50 points 	4/1/16, 11:02 PM
+325 	rootman 	50 points 	4/1/16, 11:02 PM
+326 	Mhackelis 	50 points 	4/1/16, 11:03 PM
+327 	unknown 	50 points 	4/1/16, 11:04 PM
+328 	MrMugiwara 	50 points 	4/1/16, 11:09 PM
+329 	hAIXer 	50 points 	4/1/16, 11:10 PM
+330 	evanyeyeye 	50 points 	4/1/16, 11:12 PM
+331 	virus69 	50 points 	4/1/16, 11:22 PM
+332 	SKIN 	50 points 	4/1/16, 11:37 PM
+333 	Hawks 	50 points 	4/1/16, 11:47 PM
+334 	Hexistence 	50 points 	4/1/16, 11:49 PM
+335 	tom 	50 points 	4/1/16, 11:52 PM
+336 	digital_minority 	50 points 	4/1/16, 11:58 PM
+337 	Magos 	50 points 	4/2/16, 12:03 AM
+338 	PrivatePeople 	50 points 	4/2/16, 12:19 AM
+339 	cardinalSins 	50 points 	4/2/16, 12:34 AM
+340 	hy00un 	50 points 	4/2/16, 12:37 AM
+341 	DaiveNuleu 	50 points 	4/2/16, 12:49 AM
+342 	gtpp 	50 points 	4/2/16, 12:54 AM
+343 	hans 	50 points 	4/2/16, 12:56 AM
+344 	nitamago 	50 points 	4/2/16, 12:56 AM
+345 	nguyenhoangcung 	50 points 	4/2/16, 1:00 AM
+346 	MonCoder 	50 points 	4/2/16, 1:01 AM
+347 	cl4rk 	50 points 	4/2/16, 1:02 AM
+348 	InZeAir 	50 points 	4/2/16, 1:07 AM
+349 	Skynet_0 	50 points 	4/2/16, 1:10 AM
+350 	GRIS 	50 points 	4/2/16, 1:11 AM
+351 	Sherlock In Our Holmes 	50 points 	4/2/16, 1:36 AM
+352 	Trees 	50 points 	4/2/16, 1:53 AM
+353 	Meepwn 	50 points 	4/2/16, 1:57 AM
+354 	RobloxDragon 	50 points 	4/2/16, 1:58 AM
+355 	m4tux 	50 points 	4/2/16, 2:21 AM
+356 	Aleuto 	50 points 	4/2/16, 2:28 AM
+357 	NeOLux-C1Ph3r 	50 points 	4/2/16, 2:33 AM
+358 	tillson 	50 points 	4/2/16, 2:38 AM
+359 	Yozakura 	50 points 	4/2/16, 2:46 AM
+360 	doitlater 	50 points 	4/2/16, 2:59 AM
+361 	DFCI 	50 points 	4/2/16, 3:01 AM
+362 	yop99 	50 points 	4/2/16, 3:06 AM
+363 	hollyghost9 	50 points 	4/2/16, 3:13 AM
+364 	z3 	50 points 	4/2/16, 3:24 AM
+365 	Epic Leet Team 	50 points 	4/2/16, 3:54 AM
+366 	hama 	50 points 	4/2/16, 4:36 AM
+367 	terabaap 	50 points 	4/2/16, 5:03 AM
+368 	hi 	50 points 	4/2/16, 5:07 AM
+369 	TenDollar 	50 points 	4/2/16, 5:26 AM
+370 	Ciruelas 	50 points 	4/2/16, 5:27 AM
+371 	DFOE 	50 points 	4/2/16, 6:04 AM
+372 	artdan 	50 points 	4/2/16, 6:04 AM
+373 	Silverbaq 	50 points 	4/2/16, 6:18 AM
+374 	Not_Found 	50 points 	4/2/16, 6:21 AM
+375 	mrx 	50 points 	4/2/16, 6:26 AM
+376 	Excream 	50 points 	4/2/16, 6:27 AM
+377 	NetworkNerd 	50 points 	4/2/16, 6:39 AM
+378 	cth 	50 points 	4/2/16, 6:49 AM
+379 	olev 	50 points 	4/2/16, 7:29 AM
+380 	Urk3L 	50 points 	4/2/16, 7:33 AM
+381 	Eskalina 	50 points 	4/2/16, 7:42 AM
+382 	JoeGaje 	50 points 	4/2/16, 7:42 AM
+383 	PineApple 	50 points 	4/2/16, 7:47 AM
+384 	kaban1337 	50 points 	4/2/16, 7:49 AM
+385 	Team HIT 	50 points 	4/2/16, 8:03 AM
+386 	kod0kk 	50 points 	4/2/16, 8:10 AM
+387 	Invader 	50 points 	4/2/16, 8:12 AM
+388 	ElisabethB 	50 points 	4/2/16, 8:41 AM
+389 	makanbeling 	50 points 	4/2/16, 8:43 AM
+390 	michieldwitte 	50 points 	4/2/16, 8:43 AM
+391 	inertiasloth 	50 points 	4/2/16, 8:47 AM
+392 	lostk1tt3n5 	50 points 	4/2/16, 9:01 AM
+393 	De la bath 	50 points 	4/2/16, 9:21 AM
+394 	tirth14 	50 points 	4/2/16, 9:25 AM
+395 	vesuvius 	50 points 	4/2/16, 9:30 AM
+396 	ech0t3am 	50 points 	4/2/16, 9:30 AM
+397 	fs0c13ty 	50 points 	4/2/16, 9:31 AM
+398 	N0PE! 	50 points 	4/2/16, 9:33 AM
+399 	salad 	50 points 	4/2/16, 9:37 AM
+400 	ruuto 	50 points 	4/2/16, 9:38 AM
+401 	z0rex 	50 points 	4/2/16, 9:49 AM
+402 	shelldump 	50 points 	4/2/16, 9:54 AM
+403 	KernelPanic 	50 points 	4/2/16, 10:07 AM
+404 	Timber125 	50 points 	4/2/16, 10:08 AM
+405 	gayensouvik1 	50 points 	4/2/16, 10:12 AM
+406 	francis_c 	50 points 	4/2/16, 10:12 AM
+407 	dandri_a 	50 points 	4/2/16, 10:15 AM
+408 	Mairon 	50 points 	4/2/16, 10:16 AM
+409 	503_1 	50 points 	4/2/16, 10:25 AM
+410 	keva 	50 points 	4/2/16, 10:42 AM
+411 	loststar 	50 points 	4/2/16, 10:45 AM
+412 	abcde 	50 points 	4/2/16, 10:52 AM
+413 	Inazo 	50 points 	4/2/16, 11:10 AM
+414 	espresso 	50 points 	4/2/16, 11:25 AM
+415 	duguhu 	50 points 	4/2/16, 11:42 AM
+416 	cayman 	50 points 	4/2/16, 11:50 AM
+417 	CaramelMacchiato 	50 points 	4/2/16, 12:07 PM
+418 	overflow.army 	50 points 	4/2/16, 12:13 PM
+419 	Brutor 	50 points 	4/2/16, 12:14 PM
+420 	11-Digit Prime Number 	50 points 	4/2/16, 12:30 PM
+421 	Casper 	50 points 	4/2/16, 12:44 PM
+422 	Netronix 	50 points 	4/2/16, 12:50 PM
+423 	w00rt 	50 points 	4/2/16, 12:54 PM
+424 	atcasanova 	50 points 	4/2/16, 1:18 PM
+425 	Rolalala 	50 points 	4/2/16, 1:23 PM
+426 	NeO_Team 	50 points 	4/2/16, 2:00 PM
+427 	jfk 	50 points 	4/2/16, 2:11 PM
+428 	toto 	50 points 	4/2/16, 2:18 PM
+429 	g0tiu5a 	50 points 	4/2/16, 2:19 PM
+430 	plean 	50 points 	4/2/16, 2:27 PM
+431 	hikshiks 	50 points 	4/2/16, 3:05 PM
+432 	ab12345 	50 points 	4/2/16, 3:13 PM
+433 	Noobs4Win 	50 points 	4/2/16, 3:18 PM
+434 	Dark.Shell 	50 points 	4/2/16, 3:19 PM
+435 	HackCat 	50 points 	4/2/16, 3:27 PM
+436 	tory 	50 points 	4/2/16, 4:10 PM
+437 	mimah35 	50 points 	4/2/16, 4:53 PM
+438 	adxetap 	50 points 	4/2/16, 7:02 PM
+439 	doshmajhan 	50 points 	4/2/16, 7:03 PM
+440 	Roryhackit 	50 points 	4/2/16, 7:58 PM
+441 	eipiplus1equals0 	50 points 	4/2/16, 8:38 PM
+442 	RedHunt 	50 points 	4/2/16, 8:39 PM
+443 	ateam 	50 points 	4/2/16, 8:49 PM
+444 	kaimi.ru 	50 points 	4/2/16, 8:58 PM
+445 	riot 	50 points 	4/2/16, 9:01 PM
+446 	Lfuret_ 	50 points 	4/2/16, 9:22 PM
+447 	thebreak 	50 points 	4/2/16, 9:22 PM
+448 	benjaleg 	0 point 	
+449 	stmerry 	0 point 	
+450 	blinils 	0 point 	
+451 	emd5353 	0 point 	
+452 	WhatTheSheep 	0 point 	
+453 	zenith 	0 point 	
+454 	Caos 	0 point 	
+455 	mintgum 	0 point 	
+456 	Gibdeon 	0 point 	
+457 	participe_ctf 	0 point 	
+458 	RainbowDash 	0 point 	
+459 	Allouette 	0 point 	
+460 	KXTI 	0 point 	
+461 	WL 	0 point 	
+462 	kbj 	0 point 	
+463 	PiggyBird 	0 point 	
+464 	cbahacks 	0 point 	
+465 	d33r4unt3r 	0 point 	
+466 	Blaxter 	0 point 	
+467 	fs0s13ty 	0 point 	
+468 	GPSecs 	0 point 	
+469 	sitenkerz 	0 point 	
+470 	koCymn 	0 point 	
+471 	svoy 	0 point 	
+472 	JBraithwaite 	0 point 	
+473 	666 	0 point 	
+474 	NNC_Rootme 	0 point 	
+475 	FIRELORD767 	0 point 	
+476 	domyos 	0 point 	
+477 	magamed 	0 point 	
+478 	krstic 	0 point 	
+479 	joizel 	0 point 	
+480 	Sliim 	0 point 	
+481 	vls 	0 point 	
+482 	tink3r 	0 point 	
+483 	gh0st 	0 point 	
+484 	Shuntor 	0 point 	
+485 	Hyperogirin 	0 point 	
+486 	Nicob 	0 point 	
+487 	arya 	0 point 	
+488 	xtau 	0 point 	
+489 	harshitharshit 	0 point 	
+490 	yetanothernoob 	0 point 	
+491 	madawg 	0 point 	
+492 	ptan 	0 point 	
+493 	croissant 	0 point 	
+494 	dioseph 	0 point 	
+495 	poyo88 	0 point 	
+496 	two man army 	0 point 	
+497 	tabuechn 	0 point 	
+498 	Helix 	0 point 	
+499 	vas.and.tor 	0 point 	
+500 	Miku42 	0 point 	
+501 	m1k3r_ 	0 point 	
+502 	lwQin 	0 point 	
+503 	madfrog__ 	0 point 	
+504 	MaxiSam 	0 point 	
+505 	fenris830 	0 point 	
+506 	Nicocha 	0 point 	
+507 	FauxClef 	0 point 	
+508 	Dozer 	0 point 	
+509 	nh0s 	0 point 	
+510 	deadpool 	0 point 	
+511 	0x6d61 	0 point 	
+512 	GinVlad 	0 point 	
+513 	rooxy 	0 point 	
+514 	Bombe 	0 point 	
+515 	bytecod3r 	0 point 	
+516 	bask 	0 point 	
+517 	PwnerRangers 	0 point 	
+518 	Akityo 	0 point 	
+519 	User7657 	0 point 	
+520 	porksoda 	0 point 	
+521 	Khanchouch 	0 point 	
+522 	toonijn 	0 point 	
+523 	smaury 	0 point 	
+524 	Maestro 	0 point 	
+525 	dardan 	0 point 	
+526 	Tralala 	0 point 	
+527 	mollaa 	0 point 	
+528 	Hack8Tic 	0 point 	
+529 	jacker 	0 point 	
+530 	Le caca c'est bon pour les rideaux 	0 point 	
+531 	spchal 	0 point 	
+532 	Wh11teW0lf 	0 point 	
+533 	prmth 	0 point 	
+534 	777 	0 point 	
+535 	abc66890 	0 point 	
+536 	dal4segno 	0 point 	
+537 	lucien.bogdanov 	0 point 	
+538 	NDBot 	0 point 	
+539 	"user_login=desc 	0 point 	
+540 	superboum 	0 point 	
+541 	Kuro 	0 point 	
+542 	HkSc 	0 point 	
+543 	Joon 	0 point 	
+544 	MODkeysersoze 	0 point 	
+545 	Triff 	0 point 	
+546 	wagiro 	0 point 	
+547 	phocean 	0 point 	
+548 	Optimus Prime 	0 point 	
+549 	axc5288 	0 point 	
+550 	nkkpbcprappo 	0 point 	
+551 	tahti 	0 point 	
+552 	Nguyen Cao Hoc 	0 point 	
+553 	bonat 	0 point 	
+554 	usedoils 	0 point 	
+555 	blah_blah 	0 point 	
+556 	jeevan 	0 point 	
+557 	hackaction 	0 point 	
+558 	Execut3 	0 point 	
+559 	Swissky 	0 point 	
+560 	Alphonse 	0 point 	
+561 	Maxima 	0 point 	
+562 	youster 	0 point 	
+563 	C0deBr8kr 	0 point 	
+564 	clmnt 	0 point 	
+565 	waywardsun 	0 point 	
+566 	Merindor 	0 point 	
+567 	lopi 	0 point 	
+568 	narinebe@leeching.net 	0 point 	
+569 	11x256 	0 point 	
+570 	GCC 	0 point 	
+571 	byc 	0 point 	
+572 	pf 	0 point 	
+573 	anjanarajan 	0 point 	
+574 	fouinux 	0 point 	
+575 	XCtzn 	0 point 	
+576 	rHackoon 	0 point 	
+577 	xseris 	0 point 	
+578 	h4oxer 	0 point 	
+579 	_0x90 	0 point 	
+580 	vido 	0 point 	
+581 	owl 	0 point 	
+582 	Stack 	0 point 	
+583 	adrian20038 	0 point 	
+584 	cez40 	0 point 	
+585 	NCC1701D 	0 point 	
+586 	Aincrad 	0 point 	
+587 	deadmanrose3 	0 point 	
+588 	galrito 	0 point 	
+589 	notjagan 	0 point 	
+590 	Snakeman 	0 point 	
+591 	Zhiend 	0 point 	
+592 	hulkbuster 	0 point 	
+593 	Cortex 	0 point 	
+594 	honc 	0 point 	
+595 	KuBik 	0 point 	
+596 	Ronnie 	0 point 	
+597 	nmatt 	0 point 	
+598 	CCQK 	0 point 	
+599 	TeamH4C 	0 point 	
+600 	ponpon 	0 point 	
+601 	apple5555221 	0 point 	
+602 	iSome 	0 point 	
+603 	LiquidLemon 	0 point 	
+604 	fiercebrute 	0 point 	
+605 	kemmio 	0 point 	
+606 	towc 	0 point 	
+607 	trilsia 	0 point 	
+608 	jfhs 	0 point 	
+609 	ACIDYWE 	0 point 	
+610 	CodeheadUK 	0 point 	
+611 	ttwye 	0 point 	
+612 	occupe 	0 point 	
+613 	Jester 	0 point 	
+614 	Random123 	0 point 	
+615 	keidii 	0 point 	
+616 	iAntre 	0 point 	
+617 	iamz233 	0 point 	
+618 	blabla 	0 point 	
+619 	qemm 	0 point 	
+620 	soluna 	0 point 	
+621 	belky 	0 point 	
+622 	rudrapratap 	0 point 	
+623 	bagejake 	0 point 	
+624 	0x27 	0 point 	
+625 	Romounet 	0 point 	
+626 	renayz 	0 point 	
+627 	xxxxx 	0 point 	
+628 	kk 	0 point 	
+629 	1up 	0 point 	
+630 	ox1m0de 	0 point 	
+631 	Sanc 	0 point 	
+632 	b0ss 	0 point 	
+633 	Octosec 	0 point 	
+634 	SUCA 	0 point 	
+635 	dsec13 	0 point 	
+636 	rutrack 	0 point 	
+637 	hackedup 	0 point 	
+638 	zerocolor 	0 point 	
+639 	TheExploiter 	0 point 	
+640 	mabdelghani 	0 point 	
+641 	Chekkaa 	0 point 	
+642 	omarmin 	0 point 	
+643 	newglad 	0 point 	
+644 	IS☢LA 	0 point 	
+645 	Lonk 	0 point 	
+646 	naifriot 	0 point 	
+647 	d@bb1ng 	0 point 	
+648 	_tomcat_ 	0 point 	
+649 	depaolism 	0 point 	
+650 	Luz 	0 point 	
+651 	drakylar 	0 point 	
+652 	rwhalen 	0 point 	
+653 	gx0s 	0 point 	
+654 	ElBritish 	0 point 	
+655 	No Internet Access 	0 point 	
+656 	006 	0 point 	
+657 	neha.ramdeo 	0 point 	
+658 	In5omnia 	0 point 	
+659 	Life 	0 point 	
+660 	al4nc4ds 	0 point 	
+661 	D@rkSmiley's 	0 point 	
+662 	ra 	0 point 	
+663 	prefisk 	0 point 	
+664 	ondas 	0 point 	
+665 	lola 	0 point 	
+666 	sh_vanGo 	0 point 	
+667 	Mugivara 	0 point 	
+668 	buscoequipo 	0 point 	
+669 	purpll 	0 point 	
+670 	sadv1r 	0 point 	
+671 	yonk0 	0 point 	
+672 	fatn 	0 point 	
+673 	snak3xe 	0 point 	
+674 	meow 	0 point 	
+675 	shinsetsu 	0 point 	
+676 	sisi 	0 point 	
+677 	buffalo5ix 	0 point 	
+678 	qwerty 	0 point 	
+679 	aurora 	0 point 	
+680 	igloupa 	0 point 	
+681 	Thomas 	0 point 	
+682 	smack 	0 point 	
+683 	Timebug 	0 point 	
+684 	EpicTeam 	0 point 	
+685 	puta 	0 point 	
+686 	Chill3d 	0 point 	
+687 	Noyer 	0 point 	
+688 	brendenashley 	0 point 	
+689 	tfairane 	0 point 	
+690 	hal 	0 point 	
+691 	Gorge0us 	0 point 	
+692 	alinkakniradnam 	0 point 	
+693 	Digital Intercept 	0 point 	
+694 	lutzenfried 	0 point 	
+695 	keywee__ 	0 point 	
+696 	Linkid 	0 point 	
+697 	wejohnso 	0 point 	
+698 	Nu1 	0 point 	
+699 	lol 	0 point 	
+700 	Tarnasa 	0 point 	
+701 	jambon 	0 point 	
+702 	dmchoi 	0 point 	
+703 	18thang8 	0 point 	
+704 	st 	0 point 	
+705 	n0pster 	0 point 	
+706 	MonsieurVaros 	0 point 	
+707 	axelbs 	0 point 	
+708 	PixelIndigo 	0 point 	
+709 	Dylan 	0 point 	
+710 	unknown.user 	0 point 	
+711 	redalert 	0 point 	
+712 	rahul1996 	0 point 	
+713 	Corrupted Reflection 	0 point 	
+714 	73spica 	0 point 	
+715 	misfitkitten 	0 point 	
+716 	RTFM 	0 point 	
+717 	asd 	0 point 	
+718 	4RY4 	0 point 	
+719 	0x901 	0 point 	
+720 	nico34 	0 point 	
+721 	Hitch 	0 point 	
+722 	__________ 	0 point 	
+723 	NiteLite 	0 point 	
+724 	ucq 	0 point 	
+725 	lgiori 	0 point 	
+726 	Raph 	0 point 	
+727 	0xc001 	0 point 	
+728 	GammaStrike 	0 point 	
+729 	Shazam 	0 point 	
+730 	cryptocrat 	0 point 	
+731 	Mongrel 	0 point 	
+732 	keluoibieng 	0 point 	
+733 	nope 	0 point 	
+734 	HackNoDap 	0 point 	
+735 	Hawk1n5 	0 point 	
+736 	mathboy7 	0 point 	
+737 	Jojo 	0 point 	
+738 	hysteria 	0 point 	
+739 	baeleaf 	0 point 	
+740 	hohyun 	0 point 	
+741 	noshow 	0 point 	
+742 	tyh 	0 point 	
+743 	LuKriZz 	0 point 	
+744 	maverick 	0 point 	
+745 	stillstick 	0 point 	
+746 	citizen 	0 point 	
+747 	AugmentedSkies 	0 point 	
+748 	qqqpppddd 	0 point 	
+749 	splarcit 	0 point 	
+750 	SubZe12o 	0 point 	
+751 	rdj 	0 point 	
+752 	Trollio 	0 point 	
+753 	S1U3 	0 point 	
+754 	dylicious 	0 point 	
+755 	Dhawos 	0 point 	
+756 	zM 	0 point 	
+757 	illu 	0 point 	
+758 	Last 	0 point 	
+759 	SSS 	0 point 	
+760 	s4thi5h 	0 point 	
+761 	Karrax 	0 point 	
+762 	cuti 	0 point 	
+763 	xtrmbuster 	0 point 	
+764 	PackOfPugs 	0 point 	
+765 	PikMike 	0 point 	
+766 	knc 	0 point 	
+767 	vinz 	0 point 	
+768 	gabbar 	0 point 	
+769 	Maximator 	0 point 	
+770 	CaptureTheFun 	0 point 	
+771 	drdr 	0 point 	
+772 	youcantbtcme 	0 point 	
+773 	shsirk 	0 point 	
+774 	Geee 	0 point 	
+775 	123123123 	0 point 	
+776 	Dedge1971 	0 point 	
+777 	navlys 	0 point 	
+778 	Strigoides 	0 point 	
+779 	chim 	0 point 	
+780 	Akuntuk4 	0 point 	
+781 	hypn0s 	0 point 	
+782 	torgiren 	0 point 	
+783 	avenger3133 	0 point 	
+784 	szwl 	0 point 	
+785 	AsssassiNOPs 	0 point 	
+786 	Pallanas 	0 point 	
+787 	Cemos 	0 point 	
+788 	Deecy 	0 point 	
+789 	Crytek 	0 point 	
+790 	MADCOWS 	0 point 	
+791 	bradp1tt 	0 point 	
+792 	kapace 	0 point 	
+793 	Hannibal 	0 point 	
+794 	SomeoneSomewhere 	0 point 	
+795 	tyl3rdurd3n 	0 point 	
+796 	wa7ang 	0 point 	
+797 	sturgos 	0 point 	
+798 	Hazm Storm 	0 point 	
+799 	maverick_was_here 	0 point 	
+800 	At Least We're Pretty 	0 point 	
+801 	Valkheim 	0 point 	
+802 	Cashmen 	0 point 	
+803 	sbarhli 	0 point 	
+804 	killer 	0 point 	
+805 	N3RG4L 	0 point 	
+806 	Gvaleks 	0 point 	
+807 	MilitaryOS 	0 point 	
+808 	FOXENBUNN 	0 point 	
+809 	mattypiper 	0 point 	
+810 	NinjaBastard 	0 point 	
+811 	MagoCTF 	0 point 	
+812 	ufc75 	0 point 	
+813 	Yozik 	0 point 	
+814 	aerohack 	0 point 	
+815 	icyrec 	0 point 	
+816 	SaiYan 	0 point 	
+817 	Archelio 	0 point 	
+818 	IASL 	0 point 	
+819 	Princess Sissi 	0 point 	
+820 	deadhead 	0 point 	
+821 	flu0r1n3 	0 point 	
+822 	NopeSled 	0 point 	
+823 	Florent 	0 point 	
+824 	Con 	0 point 	
+825 	e28a95 	0 point 	
+826 	specx 	0 point 	
+827 	W0lfu1 	0 point 	
+828 	SrrD 	0 point 	
+829 	v0rt3x 	0 point 	
+830 	ter0k 	0 point 	
+831 	shtarkraft 	0 point 	
+832 	20bk@w7 	0 point 	
+833 	FHSU-ATSO 	0 point 	
+834 	Op.rad 	0 point 	
+835 	Coldzer0 	0 point 	
+836 	flamezzz 	0 point 	
+837 	n0way 	0 point 	
+838 	shiplem3 	0 point 	
+839 	childs999 	0 point 	
+840 	duncker08 	0 point 	
+841 	tawaba 	0 point 	
+842 	cr4wl3r 	0 point 	
+843 	sonofmountains 	0 point 	
+844 	lone_ranger 	0 point 	
+845 	nomekrax 	0 point 	
+846 	test 	0 point 	
+847 	Mugiwara 	0 point 	
+848 	BlackMesa 	0 point 	
+849 	TheHunter 	0 point 	
+850 	hungdeptrai 	0 point 	
+851 	basketmaker 	0 point 	
+852 	0x4D41 	0 point 	
+853 	abdilahrf 	0 point 	
+854 	tsun 	0 point 	
+855 	PiX 	0 point 	
+856 	abdelghani 	0 point 	
+857 	harvey 	0 point 	
+858 	blah 	0 point 	
+859 	Anatolich174 	0 point 	
+860 	Kirah 	0 point 	
+861 	Indigo 	0 point 	
+862 	qvi 	0 point 	
+863 	zwizo 	0 point 	
+864 	ShadowCats 	0 point 	
+865 	" OR "1"="1 	0 point 	
+866 	ffffffffffffffffffffffffffffffffffffffu 	0 point 	
+867 	pwnpp4fun 	0 point 	
+868 	Roady 	0 point 	
+869 	techno_pagan 	0 point 	
+870 	GoldCow 	0 point 	
+871 	hrkljus 	0 point 	
+872 	KerKerYuan 	0 point 	
+873 	m4tt 	0 point 	
+874 	du1ner 	0 point 	
+875 	Heisenberg 	0 point 	
+876 	Wolf_Pack 	0 point 	
+877 	micaman 	0 point 	
+878 	Foobar 	0 point 	
+879 	test123abc 	0 point 	
+880 	omnious 	0 point 	
+881 	mugitani 	0 point 	
+882 	Tartusi 	0 point 	
+883 	pnchbllz 	0 point 	
+884 	sZ3n 	0 point 	
+885 	Alchemic 	0 point 	
+886 	sbs2 	0 point 	
+887 	BeBop 	0 point 	
+888 	MonoMini 	0 point 	
+889 	M3phistos 	0 point 	
+890 	whiteout 	0 point 	
+891 	alpha 	0 point 	
+892 	cactuar 	0 point 	
+893 	ngso 	0 point 	
+894 	modelA 	0 point 	
+895 	Nekyz 	0 point 	
+896 	e11even 	0 point 	
+897 	pecky 	0 point 	
+898 	DiGIMON 	0 point 	
+899 	Sheep 	0 point 	
+900 	deadcoder 	0 point 	
+901 	blacksmith 	0 point 	
+902 	PiouPiou 	0 point 	
+903 	low privs high hopes 	0 point 	
+904 	byteshredders 	0 point 	
+905 	AV1ct0r 	0 point 	
+906 	slacker 	0 point 	
+907 	d3k4 	0 point 	
+908 	xeksec 	0 point 	
+909 	kasper 	0 point 	
+910 	HerrAmeise 	0 point 	
+911 	Cat-n-Fish 	0 point 	
+912 	ForPracetice 	0 point 	
+913 	NYUSEC 	0 point 	
+914 	igorpyan 	0 point 	
+915 	Forocoches 	0 point 	
+916 	GrayOneday 	0 point 	
+917 	batik 	0 point 	
+918 	0x383D3D44 	0 point 	
+919 	RainbowLyte 	0 point 	
+920 	n1kto 	0 point 	
+921 	mshim 	0 point 	
+922 	c33 	0 point 	
+923 	zTsugumi 	0 point 	
+924 	'"></script><img src=x onerror=prompt()> 	0 point 	
+925 	fafa 	0 point 	
+926 	doratest 	0 point 	
+927 	MrYeniay 	0 point 	
+928 	Darking 	0 point
